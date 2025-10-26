@@ -7,6 +7,7 @@ from typing import List, Dict, Optional, Tuple
 from dataclasses import dataclass
 from pydantic import BaseModel
 
+
 # -------------------- Config --------------------
 USER_AGENT = (
     "Mozilla/5.0 (compatible; scp-freq-bot/0.1; +https://example.com/bot)"
